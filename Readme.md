@@ -1,4 +1,4 @@
-# Express + Vue Bolderplate
+# Express + Vue Boilerplate
 
 ## Start backend
 
